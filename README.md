@@ -3,15 +3,18 @@
 **Contact Information**
 - 📧 Email: [kappapee@pm.me](mailto:kappapee@pm.me)
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/kappapee/)
-- 🐙 GitHub: [Profile](https://github.com/kappapee)
 
 ---
 
 ## 🚀 About Me
 
-Experienced researcher and data scientist with a strong foundation in experimental research, data analysis, and emerging technologies, now transitioning into cybersecurity research and analysis. With over a decade of research experience spanning quantum physics, machine learning, and data science, I aim to bring my analytical mindset and problem-solving skills to cybersecurity challenges.
+Experienced researcher, data scientist and software developer with a strong foundation in experimental research, data analysis, backend development and emerging artificial intelligence technologies. 
 
-My background in experimental research has honed my ability to methodically investigate complex problems, design systematic approaches to testing hypotheses, and draw meaningful insights from data. Through my role as Senior Data Scientist at SAP Signavio, I've developed expertise in prototyping innovative solutions and evaluating emerging technologies. I am currently expanding my technical skillset in cybersecurity through hands-on learning in penetration testing methodologies and advanced and secure backend development.
+My background in experimental research has honed my ability to methodically investigate complex problems, design systematic approaches to testing hypotheses, and draw meaningful insights from data. Through my role as Senior Data Scientist at SAP Signavio, I've developed expertise in prototyping innovative solutions (including machine learning pipelines and backend services) and evaluating emerging technologies. 
+
+I am currently expanding my technical skillset in secure-oriented backend development through hands-on learning on the boot.dev and tryhackme.com platforms, including topics on OOP, functional programming, web servers, SQL databases, CI/CD, data structures and algorithms. 
+
+I have been writing Python code for many years, and I am really enjoying writing Go code over the last year.
 
 ## 🛠️ Skills
 
@@ -19,8 +22,10 @@ My background in experimental research has honed my ability to methodically inve
 ### Programming
 - Python
 - Go
-- SQL
+- SQL (PostgreSQL, SQLite)
 - Bash
+- RESTful APIs
+- Machine learning and Large Language Models pipelines
 
 ### Cloud & DevOps
 - AWS
@@ -28,23 +33,12 @@ My background in experimental research has honed my ability to methodically inve
 - Docker
 - Kubernetes
 - Git
+- GitHub Actions
 
 ### Operating Systems
 - Linux
 - BSD
 - Windows
-
-### Cybersecurity
-- Web App Security
-- Pentesting
-- SOC
-- nmap
-- Metasploit
-- hydra
-- john
-- BurpSuite
-- OWASP
-- exploitDB
 
 
 ## 💼 Experience
@@ -84,10 +78,10 @@ Lead researcher experimenting on interfacing integrated quantum photonic chips w
 ## 🎓 Education & Certifications
 
 
-### [TryHackMe Penetration Tester Path](https://tryhackme.com/p/kappapee)
+### [TryHackMe Security Engineer Path](https://tryhackme.com/p/kappapee)
 *Mar 2025 - present*
 
-Currently enrolled, expected PT1 certificate completion by July 2025.
+Currently enrolled on the Security Engineer path.
 
 
 ### [Boot.dev Golang Backend Certification](https://www.boot.dev/u/kappapee)
@@ -100,9 +94,3 @@ Rigorous computer science and backend engineering program. Completed 20+ courses
 **University of Bristol, U.K.** | *Nov 2009 - Dec 2013*
 
 Experimental research on integrated quantum photonics for quantum information and quantum computation. Thesis: "Integrated Photonic Continuous-Time Quantum Walks".
-
-
-
----
-
-*This CV is automatically generated from structured data. Last updated: 2025-05-26*
