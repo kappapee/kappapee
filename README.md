@@ -2,7 +2,7 @@
 
 **Contact Information**
 - 📧 Email: [kappapee@pm.me](mailto:kappapee@pm.me)
-- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/kappapee/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/kappapee/](https://www.linkedin.com/in/kappapee/)
 
 ---
 
