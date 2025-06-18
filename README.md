@@ -84,7 +84,7 @@ Lead researcher experimenting on interfacing integrated quantum photonic chips w
 Currently enrolled on the Security Engineer path.
 
 
-### [Boot.dev Golang Backend Certification](https://www.boot.dev/u/kappapee)
+### [Boot.dev Backend Developer Certification](https://www.boot.dev/u/kappapee)
 *Nov 2024 - present*
 
 Rigorous computer science and backend engineering program. Completed 20+ courses including DSA, OOP, functional programming, web servers, and SQL databases. Expected completion July 2025.
