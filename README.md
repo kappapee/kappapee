@@ -78,19 +78,20 @@ Lead researcher experimenting on interfacing integrated quantum photonic chips w
 ## 🎓 Education & Certifications
 
 
-### [TryHackMe Security Engineer Path](https://tryhackme.com/p/kappapee)
-*Mar 2025 - present*
-
-Currently enrolled on the Security Engineer path.
-
-
 ### [Boot.dev Backend Developer Certification](https://www.boot.dev/u/kappapee)
 *Nov 2024 - present*
 
 Rigorous computer science and backend engineering program. Completed 20+ courses including DSA, OOP, functional programming, web servers, and SQL databases. Expected completion July 2025.
 
 
+### [TryHackMe Security Engineer Path](https://tryhackme.com/p/kappapee)
+*Mar 2025 - present*
+
+Currently enrolled on the Security Engineer path.
+
+
 ### Ph.D. in Physics
 **University of Bristol, U.K.** | *Nov 2009 - Dec 2013*
 
 Experimental research on integrated quantum photonics for quantum information and quantum computation. Thesis: "Integrated Photonic Continuous-Time Quantum Walks".
+
