@@ -41,6 +41,19 @@ I have been writing Python code for many years, and I am really enjoying writing
 - Windows
 
 
+### Cybersecurity
+- Web App SecurityAdd commentMore actions
+- Pentesting
+- SOC
+- nmap
+- Metasploit
+- hydra
+- john
+- BurpSuite
+- OWASP
+- exploitDB
+
+
 ## 💼 Experience
 
 
