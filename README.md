@@ -19,6 +19,7 @@ Proven track record in leading cross-functional research teams, managing interna
 ## 🛠️ Skills
 
 | **Programming** | **Machine Learning** | **Large Language Models** |
+| --- | --- | --- |
 | Python, Go, Bash | Anomaly detection | RAG systems |
 | PostgreSQL, SQLite | Time series analysis | LLM-based agents |
 | FastAPI, Django | Recommender systems | Langchain |
