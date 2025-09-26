@@ -1,18 +1,17 @@
 # Konstantinos Poulios
 
 **Contact Information**
-- 📧 Email: [kappapee@pm.me](mailto:kappapee@pm.me)
-- 💼 LinkedIn: [https://www.linkedin.com/in/kappapee/](https://www.linkedin.com/in/kappapee/)
+📧 [kappapee@pm.me](mailto:kappapee@pm.me) | 💼 [linkedin.com/in/kappapee](https://www.linkedin.com/in/kappapee/)
 
 ---
 
 ## 🚀 About Me
 
-Backend software developer and data scientist with a strong foundation in application prototyping, data ETL pipelines and data analysis, ML pipelines and RAG systems. 
+Experienced data scientist and software developer with 10+ years of hands-on experience building full-stack ML applications, backend services, and production-ready prototypes. Strong foundation in experimental research methodology, statistical analysis, and systematic hypothesis testing developed through academic research and applied in fast-paced innovation environments.
 
-My background in academic experimental research has honed my ability to methodically investigate complex problems, design systematic approaches to testing hypotheses, and draw meaningful insights from data. Through my role as full-stack Senior Data Scientist, I've developed expertise in prototyping innovative ML based and data-driven solutions, validating and evaluating business ideas and supporting the productization of successful prototypes. 
+Expertise spans the complete development lifecycle: from data pipeline architecture and feature engineering to ML model deployment, API development (FastAPI/Django), and cloud infrastructure (AWS/Azure) with CI/CD automation. Proficient in Python and Go, with growing passion for backend development and security-oriented engineering practices. Focus on developing innovative AI solutions including LLM-powered applications, RAG systems, and predictive modeling.
 
-I have been writing Python code for a decade, and have built RESTful API backend systems using different frameworks (Django, FastAPI) and various SQL flavors (PostgreSQL, SQLite). I have experience with CI/CD and cloud hosting solutions (AWS, GCP). Over the past year I am really enjoying writing Go code.
+Proven track record in leading cross-functional research teams, managing international collaborations, and delivering clean handovers to production engineering teams. Skilled in rapid prototyping, user validation, and translating complex business requirements into scalable technical solutions. Currently expanding expertise in software architecture principles and security engineering to transition toward more production-focused development roles. 
 
 ## 🛠️ Skills
 
@@ -42,10 +41,33 @@ I have been writing Python code for a decade, and have built RESTful API backend
 
 ## 💼 Experience
 
-### Senior Data Scientist
-**SAP Signavio** | *Mar 2020 - Feb 2025*
+### Technology Consultant
+**Freelance** Athens, Greece | *Mar 2025 - present*
 
-Part of the Research and Innovation team, researching and validating ideas through proof-of-concept projects and evaluating future product features and services through rapid prototyping of ML-driven, data-centric applications.
+Cunsulting services on digital and AI transformation for local small enterprises and non-profit organisations. Developed prototypes to demonstrate and evaluate digital transformation of portfolios and AI services using Python, FastAPI APIs, Postgres and Streamlit.
+
+### Senior Data Scientist
+**SAP** Berlin, Germany | *Apr 2021 - Feb 2025*
+
+Senior data scientist in the Research and Innovation team, responsible for de-risking ML ideas through full-stack prototype development and user validation. Built production-ready PoCs using Python, FastAPI/Django APIs, custom libraries, and ETL pipelines deployed on Azure with CI/CD and containerization (Docker/Kubernetes). Key projects:
+
+- LLM-based service transforming natural language process descriptions to formal business process diagrams,
+- RAG system enabling tailored information retrieval for chatbots using vector databases,
+- Recommendation system suggesting next actions for running business processes,
+- Predictive modeling for business process outcomes.
+
+Led user testing sessions, provided clean handovers to engineering teams with comprehensive documentation, and successfully transitioned multiple prototypes to production services. 
+
+### Data Scientist
+**Signavio** Berlin, Germany | *Mar 2020 - Mar 2021*
+
+Data scientist in the Research and Innovation team, focused on developing ML prototypes and proof-of-concept applications to validate new product ideas. Built full-stack applications using Python, custom libraries, and REST APIs (FastAPI/Django) with cloud deployment using CI/CD pipelines and containerization. Key projects:
+
+- Time-series anomaly detection system for process mining applications,
+- Automated insights generation from business process data mining,
+- Custom quality index for process model evaluation and optimization.
+
+Conducted user testing sessions to validate prototypes and collaborated with engineering teams on successful project handovers, providing robust documentation and clean codebases for production implementation. 
 
 ### Postdoctoral Researcher
 **University of Nottingham, U.K.** | *Dec 2017 - Nov 2019*
@@ -72,9 +94,17 @@ Lead researcher experimenting on interfacing integrated quantum photonic chips w
 ### [Boot.dev Backend Developer Certification](https://www.boot.dev/u/kappapee)
 *Nov 2024 - present*
 
-Rigorous computer science and backend engineering program. Completed 20+ courses including DSA, OOP, functional programming, web servers, and SQL databases. Expected completion July 2025.
+A rigorous backend engineering curriculum, with over 20 courses and projects, including courses on DSA, functional programming, web servers, and SQL databases to name a few. Strengthening foundation for building scalable ML systems and production-grade data applications. 
 
 ### Ph.D. in Physics
 **University of Bristol, U.K.** | *Nov 2009 - Dec 2013*
 
-Experimental research on integrated quantum photonics for quantum information and quantum computation. Thesis: "Integrated Photonic Continuous-Time Quantum Walks".
+Experimental research in integrated quantum photonics for quantum information and quantum computation with heavy emphasis on data analysis, statistical modeling, and systematic experimental design. Developed expertise in hypothesis testing, experimental validation, and scientific methodology. 
+
+Thesis: "Integrated Photonic Continuous-Time Quantum Walks".
+
+### B.Sc. in Physics
+**Aristotle University of Thessaloniki, Greece** | Sep 2009
+
+Majored in solid-state physics.
+
