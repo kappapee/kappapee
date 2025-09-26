@@ -18,35 +18,14 @@ Proven track record in leading cross-functional research teams, managing interna
 
 ## 🛠️ Skills
 
-| **Programming** | **Machine Learning** | **Large Language Models** |
-| --- | --- | --- |
-| Python, Go, Bash | Anomaly detection | RAG systems |
-| PostgreSQL, SQLite | Time series analysis | LLM-based agents |
-| FastAPI, Django | Recommender systems | Langchain |
-| Containers | Statistical modeling | Prompt engineering |
-| Github Actions | Feature engineering | Vector databases |
-| Git version control | Model evaluation | REST API backend |
-
-### Data Science
-- Pandas & NumPy
-- Scikit-learn
-- XGBoost
-- Spacy
-- HuggingFace
-- Streamlit
-
-### DevOps & MLOps
-- AWS, Azure
-- CI/CD pipelines
-- Docker
-- MLFlow
-- Model versioning
-- A/B testing
-
-### Operating Systems
-- Linux
-- BSD
-- Windows
+| **Programming** | **Machine Learning** | **Large Language Models** | **Data Science** | **DevOps & MLOps** |
+| --- | --- | --- | --- | --- |
+| Python, Go, Bash | Anomaly detection | RAG systems | Pandas & NumPy | AWS, Azure |
+| PostgreSQL, SQLite | Time series analysis | LLM-based agents | Scikit-learn | CI/CD pipelines |
+| FastAPI, Django | Recommender systems | Langchain | XGBoost | Docker |
+| Containers | Statistical modeling | Prompt engineering | Spacy | MLFlow |
+| Github Actions | Feature engineering | Vector databases | HuggingFace | Model versioning |
+| Git version control | Model evaluation | REST API backend | Streamlit | A/B testing |
 
 ## 💼 Experience
 
