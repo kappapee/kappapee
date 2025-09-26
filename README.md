@@ -18,29 +18,13 @@ Proven track record in leading cross-functional research teams, managing interna
 
 ## 🛠️ Skills
 
-### Programming
-- Python, Go, Bash
-- PostgreSQL, SQLite
-- FastAPI, Django
-- Containers
-- Github Actions
-- Git version control
-
-### Machine Learning
-- Anomaly detection
-- Time series analysis
-- Recommender systems
-- Statistical modeling
-- Feature engineering
-- Model evaluation
-
-### Large Language Models
-- RAG systems
-- LLM-based agents
-- Langchain
-- Prompt engineering
-- Vector databases
-- REST API backend
+| **Programming** | **Machine Learning** | **Large Language Models** |
+| Python, Go, Bash | Anomaly detection | RAG systems |
+| PostgreSQL, SQLite | Time series analysis | LLM-based agents |
+| FastAPI, Django | Recommender systems | Langchain |
+| Containers | Statistical modeling | Prompt engineering |
+| Github Actions | Feature engineering | Vector databases |
+| Git version control | Model evaluation | REST API backend |
 
 ### Data Science
 - Pandas & NumPy
