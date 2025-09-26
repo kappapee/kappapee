@@ -1,7 +1,10 @@
 # Konstantinos Poulios
 
 **Contact Information**
-📧 [kappapee@pm.me](mailto:kappapee@pm.me) | 💼 [linkedin.com/in/kappapee](https://www.linkedin.com/in/kappapee/)
+
+📧 [kappapee@pm.me](mailto:kappapee@pm.me)
+
+💼 [linkedin.com/in/kappapee](https://www.linkedin.com/in/kappapee/)
 
 ---
 
@@ -16,23 +19,44 @@ Proven track record in leading cross-functional research teams, managing interna
 ## 🛠️ Skills
 
 ### Programming
-- Python
-- Go
-- SQL (PostgreSQL, SQLite)
-- Bash
-- RESTful APIs
-- ML and LLM pipelines
-- RAG systems
+- Python, Go, Bash
+- PostgreSQL, SQLite
+- FastAPI, Django
+- Containers
+- Github Actions
+- Git version control
 
-### Cloud & DevOps
-- AWS
-- GCP
-- Docker
-- Kubernetes
-- Git
-- GitHub Actions
-- MLFlow
+### Machine Learning
+- Anomaly detection
+- Time series analysis
+- Recommender systems
+- Statistical modeling
+- Feature engineering
+- Model evaluation
+
+### Large Language Models
+- RAG systems
+- LLM-based agents
+- Langchain
+- Prompt engineering
+- Vector databases
+- REST API backend
+
+### Data Science
+- Pandas & NumPy
+- Scikit-learn
+- XGBoost
+- Spacy
 - HuggingFace
+- Streamlit
+
+### DevOps & MLOps
+- AWS, Azure
+- CI/CD pipelines
+- Docker
+- MLFlow
+- Model versioning
+- A/B testing
 
 ### Operating Systems
 - Linux
