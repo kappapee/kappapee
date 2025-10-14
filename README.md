@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Experienced data scientist and software developer with 10+ years of hands-on experience building full-stack ML applications, backend services, and production-ready prototypes. Strong foundation in experimental research methodology, statistical analysis, and systematic hypothesis testing developed through academic research and applied in fast-paced innovation environments.
+Experienced software developer and data scientist with 10+ years of hands-on experience building full-stack ML applications, backend services, and production-ready prototypes. Strong foundation in experimental research methodology, statistical analysis, and systematic hypothesis testing developed through academic research and applied in fast-paced innovation environments.
 
 Expertise spans the complete development lifecycle: from data pipeline architecture and feature engineering to ML model deployment, API development (FastAPI/Django), and cloud infrastructure (AWS/Azure) with CI/CD automation. Proficient in Python and Go, with growing passion for backend development and security-oriented engineering practices. Focus on developing innovative AI solutions including LLM-powered applications, RAG systems, and predictive modeling.
 
