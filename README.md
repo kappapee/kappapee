@@ -39,7 +39,7 @@ Skilled in rapid prototyping, user validation, and translating complex business 
 Consulting services on digital and AI transformation for local small-medium enterprises and non-profit organisations. 
 Developed prototypes to demonstrate and evaluate digital transformation of portfolios and AI services using Python, FastAPI, Postgres and Streamlit.
 
-### Senior Data Scientist
+### Senior Software Developer
 **SAP** Berlin, Germany | *Apr 2021 - Feb 2025*
 
 Senior software developer in the Research and Innovation team, responsible for de-risking MLfeatures through full-stack prototype development and user validation. 
@@ -54,7 +54,7 @@ Key projects:
 
 Led user testing sessions, provided clean handovers to engineering teams with comprehensive documentation, and successfully transitioned multiple prototypes to production services.
 
-### Data Scientist
+### Software Developer
 **Signavio** Berlin, Germany | *Mar 2020 - Mar 2021*
 
 Software developer in the Research and Innovation team, focused on developing ML prototypes and proof-of-concept applications to validate new product ideas. 
