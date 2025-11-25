@@ -21,7 +21,7 @@ Skilled in rapid prototyping, user validation, and translating complex business 
 ## 🛠️ Skills
 
 | **Programming** | **Machine Learning** | **Large Language Models** | **DevOps & MLOps** | **Leadership & Collaboration** |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Python, Go | Recommender systems | RAG systems | AWS, MS Azure | Technical mentoring |
 | PostgreSQL, SQLite | Feature engineering | AI agents | CI/CD pipelines | Project management |
 | FastAPI, Flask | Statistical modeling | Prompt engineering | Git version control | Stakeholder communication |
@@ -65,7 +65,7 @@ Key projects:
 Conducted user testing sessions to validate prototypes and collaborated with engineering teams on successful project handovers, providing robust documentation and clean codebases for production implementation.
 
 ### Research Fellow
-**Academic Research (Multiple Institutions)** | *Jul 2014 - Nov 2019*
+**Academic Research** (Multiple Institutions) | *Jul 2014 - Nov 2019*
 
 Leading postdoctoral researcher in international, diverse research teams across the University of Nottingham, FORTH Institute, University of Oxford, and University of Bristol. 
 Developed advanced data analysis pipelines for experimental physics, implemented real-time data processing systems, and predictive models for experimental optimization. 
