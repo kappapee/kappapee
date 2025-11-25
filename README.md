@@ -12,9 +12,11 @@
 
 Experienced software developer with 10+ years of hands-on experience building full-stack ML applications, API backend services, and production-ready prototypes. 
 Strong foundation in experimental research methodology, statistical analysis, and systematic hypothesis testing developed through academic research and applied in fast-paced innovation environments.
+
 Expertise spans the complete development lifecycle: from ETL data pipeline architecture and API design (FastAPI/Flask) to service deployment and cloud infrastructure (AWS/Azure) with CI/CD automation. 
 Proficient in Python and Go, with growing passion for security-oriented engineering practices. 
 Focus on developing innovative AI solutions including LLM-powered applications, RAG systems, agentic AI services and predictive modeling.
+
 Proven track record in leading cross-functional research teams, managing international collaborations, and delivering production ready services. 
 Skilled in rapid prototyping, user validation, and translating complex business requirements into scalable technical solutions.
 
@@ -42,6 +44,7 @@ Developed prototypes to demonstrate and evaluate digital transformation of portf
 
 Senior software developer in the Research and Innovation team, responsible for de-risking MLfeatures through full-stack prototype development and user validation. 
 Built production-ready PoCs using Python, FastAPI/Flask, and Streamlit deployed on Azure with CI/CD and containerization (Docker/Kubernetes), as well as custom libraries and SDKs for internal use. 
+
 Key projects:
 
 - LLM-based service transforming natural language business process descriptions to formal business process diagrams,
@@ -56,6 +59,7 @@ Led user testing sessions, provided clean handovers to engineering teams with co
 
 Software developer in the Research and Innovation team, focused on developing ML prototypes and proof-of-concept applications to validate new product ideas. 
 Built full-stack applications using Python, with REST APIs (FastAPI/Flask) and cloud deployment using CI/CD pipelines and containerization. 
+
 Key projects:
 
 - Time-series anomaly detection system for process mining applications,
