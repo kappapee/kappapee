@@ -23,3 +23,4 @@ For some more professional information you can check my [linkedin](https://www.l
 
 You can also check my profile on [boot.dev](https://www.boot.dev/u/kappapee).
 
+Perhaps you are also interested in a small CLI utility I wrote in Go, [piphos](https://github.com/kappapee/piphos). Check it out!
