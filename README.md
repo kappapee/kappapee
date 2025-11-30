@@ -19,7 +19,7 @@ I transitioned more towards the machine learning engineering and backend side of
 
 Previously I was a trained physicist working in labs for some years.
 
-For some more professional information you can check my [linkedin](https://www.linkedin.com/in/kappapee/).
+For some more information on my professional experience you can check my [linkedin](https://www.linkedin.com/in/kappapee/).
 
 You can also check my profile on [boot.dev](https://www.boot.dev/u/kappapee).
 
