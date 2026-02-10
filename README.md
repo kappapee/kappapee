@@ -8,8 +8,3 @@
 - aws, azure, gcp
 - git, github ci/cd
 - linux, unix, macos, windows
-
-## Links
-
-- [boot.dev](https://www.boot.dev/u/kappapee)
-- [linkedin](https://www.linkedin.com/in/kappapee/)
