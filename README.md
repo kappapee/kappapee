@@ -1,26 +1,15 @@
-## About me
+## Tech Stack
 
-I am a software developer who likes writing python and (lately) go.
-
-I enjoy coding CLIs, web APIs and ML/LLM services and pipelines.
-
-The tech stack I am experienced and comfortable with is (roughly):
-
-- python, go, bash
-- postgres, sqlite
-- docker, kubernetes
+- python, go, bash, sql
+- fastapi, streamlit, pydantic-ai, pandas, scikit-learn
+- postgresql, sqlite
+- docker/podman, kubernetes
 - rest api, qraphql
-- aws, azure
-- git, github CI/CD
-- a variety of python machine learning and data science frameworks and libraries
+- aws, azure, gcp
+- git, github ci/cd
+- linux, unix, macos, windows
 
-A few year ago I was leaning more on the data science aspect of development.
-I transitioned more towards the machine learning engineering and backend side of things, and I am having much fun.
+## Links
 
-Previously I was a trained physicist working in labs for some years.
-
-For some more information on my professional experience you can check my [linkedin](https://www.linkedin.com/in/kappapee/).
-
-You can also check my profile on [boot.dev](https://www.boot.dev/u/kappapee).
-
-Perhaps you are also interested in a small CLI utility I wrote in Go, [piphos](https://github.com/kappapee/piphos). Check it out!
+- [boot.dev](https://www.boot.dev/u/kappapee)
+- [linkedin](https://www.linkedin.com/in/kappapee/)
