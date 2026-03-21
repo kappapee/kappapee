@@ -1,10 +1,9 @@
 ## Tech Stack
 
 - python, go, bash, sql
-- fastapi, streamlit, pydantic-ai, pandas, scikit-learn
+- fastapi, sqlalchemy, streamlit, pydantic-ai
 - postgresql, sqlite
-- docker/podman, kubernetes
+- docker, kubernetes
 - rest api, qraphql
 - aws, azure, gcp
-- git, github ci/cd
-- linux, unix, macos, windows
+- git, ci, cd
